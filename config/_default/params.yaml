@@ -37,7 +37,7 @@ font_size: "L"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn how to understand, speak, and do economics in the public sector"
+description: "UPDATE ME"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -53,7 +53,7 @@ logo: ""
 highlight: true
 
 # Add support for highlighting additional languages
-highlight_languages: 
+highlight_languages:
   - r
 
 # highlight_style: "github-gist"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
@@ -74,7 +74,7 @@ privacy_pack: false
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/andrewheiss/econs20.classes.andrewheiss.com'
+  repo_url: 'https://github.com/ryansafner/microS21'
   content_dir: ''
   repo_branch: master
   editable:
@@ -89,15 +89,15 @@ edit_page:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Andrew Heiss
+author: Ryan Safner
 
-instructor: 
-  name: Dr. Andrew Heiss
-  email: aheiss@gsu.edu
-  url: "https://www.andrewheiss.com"
-  twitter: andrewheiss
-  github: andrewheiss
-  office: "357 Andrew Young School"
+instructor:
+  name: Dr. Ryan Safner
+  email: safner@hood.edu
+  url: "https://www.ryansafner.com"
+  twitter: ryansafner
+  github: ryansafner
+  office: "118 Rosenstock"
   contact_policy: >-
     E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
   appointment_url: https://calendly.com/andrewheiss/meeting/
@@ -113,7 +113,7 @@ course:
   copyrightYear: "2020"
   slack: "https://gsuecons2020.slack.com"
 
-university: 
+university:
   name: Georgia State University
   url: "https://www.gsu.edu"
 
@@ -130,7 +130,7 @@ school:
 sharing_image: "social-image.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "andrewheiss"
+twitter: "ryasafner"
 
 
 ############################

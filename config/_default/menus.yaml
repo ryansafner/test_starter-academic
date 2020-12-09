@@ -15,7 +15,7 @@ main:
     url: /resource/
     weight: 5
   - name: '<i class="fab fa-slack"></i>'
-    url: "https://gsuecons2020.slack.com"
+    url: "https://hoodcollegeeconomics.slack.com"
     weight: 6
 
 content:
