@@ -1,6 +1,6 @@
 ---
 authors:
-- andrew
+- ryan
 name: Ryan Safner
 superuser: true
 ---
