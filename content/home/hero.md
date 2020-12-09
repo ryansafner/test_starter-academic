@@ -48,7 +48,7 @@ hero_media = "micro_hex.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label ="ECON 306 • Spring 2021<br>George B. Delaplaine, Jr. School of Business<br>Hood College""
+  label = "ECON 306 • Spring 2021<br>George B. Delaplaine, Jr. School of Business<br>Hood College"
 +++
 
 **Test text**
