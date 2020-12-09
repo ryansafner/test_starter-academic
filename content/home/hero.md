@@ -19,8 +19,8 @@ design:
     # Text color (true=light or false=dark).
     text_color_light: true
 
-#cta_note:
-#  label = "ECON 306 • Spring 2021<br>George B. Delaplaine, Jr. School of Business<br>Hood College"
+cta_note:
+  label = "ECON 306 • Spring 2021<br>George B. Delaplaine, Jr. School of Business<br>Hood College"
 +++
 
 **Test text**
